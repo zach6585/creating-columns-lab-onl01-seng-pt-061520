@@ -47,7 +47,7 @@ img:hover {
 }
 
 .column {
-  display: flexbox;
+  display: grid;
   
   width: 48%;
 }
