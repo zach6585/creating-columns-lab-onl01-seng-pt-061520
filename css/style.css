@@ -58,6 +58,7 @@ img:hover {
 }
 
 .medium {
+   flex: 2;
   width: 100%;
   width: 100%;
 }
